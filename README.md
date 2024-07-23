@@ -1,15 +1,52 @@
-<h1 align="center">Hi 👋, I'm Nishant Gautam</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# Hi there! 👋 I'm Nishant Gautam
 
-- 💬 Ask me about **Data virtualization**
+I'm a passionate Data Analyst based in India, with a keen interest in data visualization and analysis.
 
-- 📫 How to reach me **Nishgautam876@gmail.com**
+- 💬 Ask me about **Data virtualization** and **SQL**
+- 📫 How to reach me: [Nishgautam876@gmail.com](mailto:Nishgautam876@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-gautam-42028331a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-gautam-42028331a/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nishant.gautam.9279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nishant.gautam.9279" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nishant-gautam-42028331a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/nishant.gautam.9279" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## Languages and Tools
+<p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <!-- Add more icons for other tools or technologies you frequently use -->
+</p>
+
+## Projects
+
+### Project Name 1
+Describe your project briefly and its significance.
+
+### Project Name 2
+Describe your project briefly and its significance.
+
+## Skills
+- Data Analysis
+- Data Visualization
+- SQL
+- Python
+
+## Education
+- **Bachelor's Degree** in Computer Science, University Name, Year
+
+## Certifications
+- Data Analyst Nanodegree, Udacity, Year
+- SQL Certification, Certification Body, Year
+
+## Work Experience
+- **Data Analyst**, Company Name, Location, Year-Present
+  - Describe your role and key responsibilities.
+
+## GitHub Stats
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=white)
