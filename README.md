@@ -50,3 +50,7 @@ Describe your project briefly and its significance.
 
 ## GitHub Stats
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=white)
+
+## Contact Me
+- 📧 [Email](mailto:Nishgautam876@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nishant-gautam-42028331a/)
